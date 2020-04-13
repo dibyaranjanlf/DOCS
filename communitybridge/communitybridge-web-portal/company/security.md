@@ -4,6 +4,10 @@ Only members of Linux Foundation can see security dashboard. The below screen ap
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LuGl2w4LzPpYJ8jx5ae%2F-M4DxV-QOC4R5AUyKqjH%2F-M4E-_ZX7IeYOANIbvbM%2Fsecuiry%20non-member%20view.png?alt=media&token=31a56b8b-0cfe-46d7-b52c-db8e5f4f3c1a)
 
+## SECURITY HIGHLIGHTS
+
+
+
 ### UNIQUE LICENSE IN STACK
 
 Represents a doughnut chart that shows total number of licenses \(in the middle of the chart\), and name of individual licenses by percentage with respect to the license's usage in all projects. This chart shows the top 10 licenses by name, and all other licenses are grouped in **OTHERS** category.
