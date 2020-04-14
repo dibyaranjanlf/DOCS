@@ -10,3 +10,5 @@ The following eligibility rules apply to program applicants. You must:
 * Meet any additional criteria set by the particular project for which you want to apply. Some projects may have custom requirements for mentees. For example, some projects may limit mentorships to Mentees who are currently enrolled in school.
 * Not be a prior participant or a regular contributor involved with a project for which you want to be a mentee.  **Note:** Individuals who have submitted one or two Pull Requests, but are not regular contributors are eligible to apply.
 
+
+
