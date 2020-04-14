@@ -240,6 +240,7 @@
       * [Emails](training-and-certification/training/panorama-manager-manual/emails.md)
       * [Manage Learners](training-and-certification/training/panorama-manager-manual/manage-learners.md)
   * [Certification](training-and-certification/certification/README.md)
+    * [New Document Here](training-and-certification/certification/new-document-here.md)
     * [Linux Foundation Global Certification and Confidentiality Agreement](training-and-certification/certification/lf-global-cert-agreement.md)
     * [Corporate Learner's Guide](training-and-certification/certification/corporate-learners-manual/README.md)
       * [Creating a LF ID](training-and-certification/certification/corporate-learners-manual/creating-a-lf-id.md)
