@@ -1,3 +1,4 @@
 # Training and Certification
-### This is heading 3!
+
+## This is heading 3!
 
