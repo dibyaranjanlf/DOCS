@@ -23,7 +23,7 @@ The CLA project has two backend projects.
 
 The majority of the backend APIs are implemented in python, and can be found in the `cla-backend` directory.
 
-Recent backend development was implemented in Golang, and can be found in the `cla-backend-go` directory. In particular, this backend contains APIs powering Automated Templates, GitHub Whitelists, and Duplicate Company handling in the Corporate Console.
+Recent backend development was implemented in Golang, and can be found in the `cla-backend-go` directory. In particular, this backend contains APIs powering Automated Templates, GitHub Approved List of contributors, and Duplicate Company handling in the Corporate Console.
 
 ## CLA Frontend <a id="cla-frontend"></a>
 
@@ -32,7 +32,7 @@ Recent backend development was implemented in Golang, and can be found in the `c
 CLA frontend consists of three independent SPA build with [Ionic](https://ionicframework.com/) framework.
 
 * `cla-frontend-project-console` for LinuxFoundation director/admin/user to manage project CLA
-* `cla-frontend-corporate-console` for any concrete company CCLA manager to sign a CCLA and manage employee CLA whitelist
+* `cla-frontend-corporate-console` for any concrete company CCLA manager to sign a CCLA and manage employee CLA approved list
 * `cla-frontend-contributor-console` for any project contributor to sign ICLA or CCLA
 
 ## EasyCLA Architechture <a id="easycla-architechture"></a>
