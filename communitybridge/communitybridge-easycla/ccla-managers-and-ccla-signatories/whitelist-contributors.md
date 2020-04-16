@@ -27,7 +27,7 @@ _Multiple CCLA managers cannot authorize/approve the same domain and sign a CCLA
 
 The approved lists appear:
 
-![Whitelists](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgxrxZtNfekGaZ8b%2Fcla-whitelists.png?generation=1574684254580013&alt=media)
+![Approved List](../../../.gitbook/assets/approved-list.png)
 
 6. Decide which approved list you want to edit:
 
@@ -41,9 +41,9 @@ The corresponding Edit _domain/email/github_ approved list dialog lets you add, 
 **Note:** To remove an entry from the approved list, click **X** next to the item, and click **SAVE**.
 
 1. Click the edit icon\( **pencil** \) next to the approved list that you want to edit:
-2. Click **ADD DOMAIN/EMAIL/GITHUB**, enter a **domain name**, **email address**, or **GitHub username** for the employees for whom you want to authorize, respectively, and click **SAVE**. For example:
+2. Click **ADD DOMAIN/EMAIL/GITHUB**, enter a **domain name**, **email address**, or **GitHub username** for the employees for who you want to authorize, and click **SAVE APPROVED LIST**. For example:
 
-![Edit email Whitelist](https://gblobscdn.gitbook.com/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgxvL5WG4fjyScmx%2Fcla-edit-email-whitelist.png?generation=1574684260759456&alt=media)
+![](../../../.gitbook/assets/email-approved-list.png)
 
 Your entries appear in their corresponding approved lists.
 
@@ -61,13 +61,13 @@ Each member of your organization must ensure that these items are Public in thei
 **Do these steps:**
 
 1. Click the edit icon \(**pencil\)** next to Github Org Approved List.  
-    The Github Organization Approved List dialog appears.
+    The Edit Github Organization Approved List dialog appears.
 
-![Github Organization Whitelist](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUgxxP0dhfxV5XHc-%2Fcla-github-organization-whitelist-no-organizations.png?generation=1574684254778432&alt=media)
+![GitHub Org Approved List](../../../.gitbook/assets/github-org-approved-list.png)
 
 **Note:** Click **CONNECT GITHUB** if the organization you want to authorize is not listed in the dialog. The Add GitHub Organization dialog appears and lets you specify the GitHub organization.
 
-2. Click **ADD** or **REMOVE** next to the organization that you want to add or remove, respectively.
+2.Type a GitHub organization name in the field, select from drop-down, and click **SAVE APPROVED LIST** or click ![](../../../.gitbook/assets/close-icon.png) next to the organization that you want to add/remove, respectively.
 
 Your organizations appear in their organization approved list.
 

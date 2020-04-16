@@ -1,6 +1,6 @@
-# Sign a Corporate CLA on Behalf of the Company
+# Sign a Corporate CLA on Behalf of a Company
 
-As a CCLA signatory, you need to have the authority within your company to sign a Corporate CLA on its behalf. If you are a CCLA manager but not a CCLA signatory, you can request that the CCLA signatory sign the Corporate CLA.
+As a CCLA signatory, you must be authorized by your company to sign a Corporate CLA on its behalf. If you are a CCLA manager but not a CCLA signatory, you can request that the CCLA signatory sign the Corporate CLA.
 
 **Do these steps:**
 

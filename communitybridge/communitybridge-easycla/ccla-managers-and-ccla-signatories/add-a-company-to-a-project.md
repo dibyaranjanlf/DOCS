@@ -10,22 +10,16 @@ _If you are also the project manager, make sure that you are logged out of the C
 
    The CLA Corporate Console appears and shows Companies.
 
-2. Click **ADD COMPANY**.
+2. Click **GET STARTED**.
 
-   The Add Company dialog appears.
+   The Select Company dialog appears.  
+    ![](../../../.gitbook/assets/add-company-get-started.png) 
 
-3. Complete the dialog fields and click **SAVE**, for example:
+3. Type a company's name in the dialog fields and click **ADD COMPANY**.
 
-   ​![Add a Company](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhR9HmNGJ5TvBuZn%2Fcla-add-company.png?generation=1574684261318703&alt=media)​
-
-   * Company Name
-
-     This name must be unique⏤multiple instances of the same company cannot exist.
-
-   * Your email⏤your company email
-   * Your name
+   ​​ ![](../../../.gitbook/assets/add-company-add-company.png)
 
    The Companies page shows your company.
 
-4. Sign out or continue to [Sign a CCLA on Behalf of the Company](sign-a-corporate-cla-on-behalf-of-the-company.md) \(CCLA signatory\).
+4. Sign out or continue to [Sign a CCLA on Behalf of a Company](sign-a-corporate-cla-on-behalf-of-the-company.md) \(CCLA signatory\).
 
