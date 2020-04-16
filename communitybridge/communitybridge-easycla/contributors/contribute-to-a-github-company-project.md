@@ -9,33 +9,32 @@ When all CLA management set-up tasks are complete and your CCLA signatory has si
 _If you are a project manager, make sure that you are logged out of the CLA Management Console before you begin._
 
 1. In GitHub, go to the repository that is linked to the project for your organization.
+
 2. Make a change and send a pull request.
 
-   EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.
+3. EasyCLA checks the CLA status of all committers involved in that pull request. EasyCLA marks a cross or a tick beside contributor names involved in that pull request based on their CLA status.  
+**Note:** A cross next to your contributor name means the CLA check failed.
 
-   A cross next to your contributor name means the CLA check failed.
+![GitHub Company Contributor Fail](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhk_mfIgnaAI7v1C%2Fcla-github-company-contributor-fail.png?generation=1574684262600439&alt=media)
 
-   ​![GitHub Company Contributor Fail](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhk_mfIgnaAI7v1C%2Fcla-github-company-contributor-fail.png?generation=1574684262600439&alt=media)​
+4. Click **Please click here to be authorized**.  
+**Note:** The Authorize CommunityBridge: EasyCLA dialog appears.
 
-3. Click **Please click here to be authorized**.
+5. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
 
-   The Authorize CommunityBridge: EasyCLA dialog appears.
+​![Authorize CommunityBridge: EasyCLA](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkbhRFX-XoByAKj%2Fcla-authorize-easycla.png?generation=1574684257473715&alt=media)​
 
-4. Click **Authorize LF-Engineering**. \(Subsequent contributions will not require authorization.\)
+6. The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
 
-   ​![Authorize CommunityBridge: EasyCLA](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkbhRFX-XoByAKj%2Fcla-authorize-easycla.png?generation=1574684257473715&alt=media)​
+![Select a CLA Type](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkdg9TANQf32mrr%2Fcla-github-select-company-or-individual.png?generation=1574684261979680&alt=media)
 
-   The CLA Contributor Console appears and shows the CLA group for your project. One or more CLA types that you must sign display: Company and Individual.
+7. Select **Company**.  
+**Note:** To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
 
-   ​![Select a CLA Type](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkdg9TANQf32mrr%2Fcla-github-select-company-or-individual.png?generation=1574684261979680&alt=media)​
+8. Continue:
 
-5. Select **Company**.
-
-   To contribute to this project, you must be authorized under a signed Contributor License Agreement. You are contributing on behalf of your work for a company.
-
-6. Continue:
-   * [If a Confirmation of Association with statement appears](contribute-to-a-github-company-project.md#if-a-confirmation-of-association-with-statement-appears)
-   * [If the Select Company dialog appears](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears)
+* [If a Confirmation of Association with statement appears](contribute-to-a-github-company-project.md#if-a-confirmation-of-association-with-statement-appears)
+* [If the Select Company dialog appears](contribute-to-a-github-company-project.md#if-the-select-company-dialog-appears)
 
 ## If a Confirmation of Association with statement appears <a id="if-a-confirmation-of-association-with-statement-appears"></a>
 
@@ -75,7 +74,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    **YES**—go to **Step 5**.
 
-   **NO**—A Request Access form appears. Complete the form and click **SEND**. The CCLA manager signs a Corporate CLA and adds you to the whitelist.
+   **NO**—A Request Access form appears. Complete the form and click **SEND**. The CCLA manager signs a Corporate CLA and adds you to the approved list.
 
    ​![CLA Request Access](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkqX_VHwXl_oQa-%2Fcla-request-access.png?generation=1574684262567817&alt=media)​
 
