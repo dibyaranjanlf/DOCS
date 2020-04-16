@@ -30,7 +30,7 @@ You can change your CLA type selections if needed.
 
 ## View CLA User Signatures <a id="view-cla-user-signatures"></a>
 
-You can view the full set of signatures and whitelisted contributors who are interacting with a project. A signature list shows details about who signed a CLA for your project.
+You can view the full set of signatures and list of approved contributors who are interacting with a project. A signature list shows details about who signed a CLA for your project.
 
 **Do these steps:**
 
