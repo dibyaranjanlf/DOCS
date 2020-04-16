@@ -64,7 +64,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    If your company is not associated with a company in the list, continue with the **next step**.
 
-   ​![Select Company](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhko6nWBqs2iwHZ7%2Fcla-contributor-select-company.png?generation=1574684256892098&alt=media)​
+   ​ ![](../../../.gitbook/assets/select-company.png) ​
 
 2. Click **COMPANY NOT IN LIST?**.
 
@@ -76,7 +76,7 @@ _If you are a project manager, make sure that you are logged out of the CLA Mana
 
    **NO**—A Request Access form appears. Complete the form and click **SEND**. The CCLA manager signs a Corporate CLA and adds you to the approved list.
 
-   ​![CLA Request Access](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LuWIT3NfRhMt-F50U5n%2F-LuXUenJzl7sWiTp19eT%2F-LuXUhkqX_VHwXl_oQa-%2Fcla-request-access.png?generation=1574684262567817&alt=media)​
+   ​ ![](../../../.gitbook/assets/request-access.png) ​
 
    A Confirmation of Association with statement appears.
 

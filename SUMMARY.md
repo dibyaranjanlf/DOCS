@@ -211,7 +211,7 @@
       * [Add a Company to a Project](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/add-a-company-to-a-project.md)
       * [Sign a Corporate CLA on Behalf of the Company](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/sign-a-corporate-cla-on-behalf-of-the-company.md)
       * [Review and Sign a Corporate CLA by Request](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/review-and-sign-a-corporate-cla-by-request.md)
-      * [Whitelist Contributors](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/whitelist-contributors.md)
+      * [Authorize Contributors](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/whitelist-contributors.md)
       * [Add or Delete CLA Managers](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/add-or-delete-cla-managers.md)
       * [View Employee Acknowledgements](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/view-employee-acknowledgements.md)
       * [Edit the Company Name and Manager Details](communitybridge/communitybridge-easycla/ccla-managers-and-ccla-signatories/edit-the-company-name-and-manager-details.md)
