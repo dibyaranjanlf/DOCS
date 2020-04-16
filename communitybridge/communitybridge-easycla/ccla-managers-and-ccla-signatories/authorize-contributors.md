@@ -31,8 +31,8 @@ The approved lists appear:
 
 6. Decide which approved list you want to edit:
 
-* [Domain Approved List , Email Approved List, or GitHub Approved List](whitelist-contributors.md#domain-whitelist-email-whitelist-or-github-whitelist)
-* [GitHub Organization Approved List](whitelist-contributors.md#github-organization-whitelist)
+* [Domain Approved List , Email Approved List, or GitHub Approved List](authorize-contributors.md#domain-whitelist-email-whitelist-or-github-whitelist)
+* [GitHub Organization Approved List](authorize-contributors.md#github-organization-whitelist)
 
 ## Domain Approved List , Email Approved List, or GitHub Approved List <a id="domain-whitelist-email-whitelist-or-github-whitelist"></a>
 
