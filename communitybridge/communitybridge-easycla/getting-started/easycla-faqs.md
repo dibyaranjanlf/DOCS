@@ -10,7 +10,7 @@ Some project communities have elected to use CLAs as a required step for contrib
 
 **What is the difference between the Corporate CLA and the Individual CLA?**
 
-A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into it on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in a whitelist that is associated with your employer for this project. A CCLA manager for your company is responsible for managing the whitelists.
+A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into it on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in an approvedlist that is associated with your employer for this project. A CCLA manager for your company is responsible for managing the approvedlists.
 
 An Individual CLA is signed by an individual for contributions that they contribute on their own behalf, as opposed to contributions on behalf of their employer or another entity.
 
