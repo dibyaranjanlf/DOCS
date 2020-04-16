@@ -8,7 +8,7 @@ Go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.t
 
 Some project communities have elected to use CLAs as a required step for contributions to their code. For those that have, the Linux Foundation wants to ensure that contributions comply with the IP policies of that project, including ensuring that contributors have accepted the corresponding CLA.
 
-**What is the difference between the Corporate CLA and the Individual CLA?**
+**What is the difference between Corporate CLA and Individual CLA?**
 
 A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into it on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in an approved list that is associated with your employer for this project. A CCLA manager for your company is responsible for managing the approved lists.
 
