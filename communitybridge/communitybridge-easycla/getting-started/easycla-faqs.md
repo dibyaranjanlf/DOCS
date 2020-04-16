@@ -2,9 +2,9 @@
 
 **Who do I contact to enable my Linux Foundation-hosted project to use EasyCLA?**
 
-Go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.thelinuxfoundation.org/EasyCLA) and submit a form to describe your particular needs, and import your existing CLAs.
+Go to [https://cloud.email.thelinuxfoundation.org/EasyCLA](https://cloud.email.thelinuxfoundation.org/EasyCLA), submit a form to describe your requirements, and import your existing CLAs.
 
-**Why does the Linux Foundation ask contributors to some project to sign CLAs?**
+**Why does Linux Foundation ask contributors of some projects to sign CLAs?**
 
 Some project communities have elected to use CLAs as a required step for contributions to their code. For those that have, the Linux Foundation wants to ensure that contributions comply with the IP policies of that project, including ensuring that contributors have accepted the corresponding CLA.
 
