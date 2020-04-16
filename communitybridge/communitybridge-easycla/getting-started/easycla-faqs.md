@@ -10,7 +10,7 @@ Some project communities have elected to use CLAs as a required step for contrib
 
 **What is the difference between the Corporate CLA and the Individual CLA?**
 
-A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into it on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in an approvedlist that is associated with your employer for this project. A CCLA manager for your company is responsible for managing the approvedlists.
+A Corporate CLA needs to be in place if you are contributing code on behalf of your employer. A Corporate CLA should be signed by an individual who is authorized to enter into it on behalf of the company. After the Corporate CLA is signed, your email address needs to be included in an approved list that is associated with your employer for this project. A CCLA manager for your company is responsible for managing the approved lists.
 
 An Individual CLA is signed by an individual for contributions that they contribute on their own behalf, as opposed to contributions on behalf of their employer or another entity.
 
@@ -20,11 +20,11 @@ The Domain **Approved List** option requires less overhead for CCLA signatories 
 
 **I contribute to an open source project as an employee for a company. Do I need to complete, sign, and submit a DocuSign document?**
 
-Probably not. If your company's CCLA signatory has signed a Corporate CLA, and if you have been whitelisted under that company's CLA, then you simply confirm your association to the company during your code submission process.
+Probably not. If your company's CCLA signatory has signed a Corporate CLA, and if you are included in the approved list under that company's CLA, then you simply confirm your association to the company during your code submission process.
 
 If you are the first one from your company who has contributed to the project, then your company's CCLA signatory will need to sign a Corporate CLA as part of the EasyCLA process. Depending on the company, you might be an authorized CCLA signatory, but you will need to review with your company's leadership or legal counsel if you are not certain.
 
-And if your company has already signed a Corporate CLA, but you are not yet on your company's whitelist, then you will need to be whitelisted by your company's CCLA manager as part of the EasyCLA process.
+And if your company has already signed a Corporate CLA, but you are not yet on your company's approved list, then you must be included in the approved list by your company's CCLA manager as part of the EasyCLA process.
 
 **If my project community has elected to use CLAs as a required step for contributions to their code, do I need to be authorized under a CLA for each project to which I contribute?**
 
