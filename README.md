@@ -1,6 +1,6 @@
 # Linux Foundation Product Documentation
 
-Linux Foundation provides a platform to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
+The Linux Foundation provides a platform to support the sustainability of open source ecosystem by providing various services, events, and training. Following are the services provided by Linux Foundation to support the creation of sustainable open source software development:
 
 {% jira %} https://jira.linuxfoundation.org/plugins/servlet/theme/portals/category/4 {% endjira %}
 
